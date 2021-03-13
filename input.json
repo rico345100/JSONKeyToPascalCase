@@ -1,0 +1,16 @@
+{
+    "title": "My Awesome Title",
+    "menu": {
+        "newGame": "New Game",
+        "options": "Options",
+        "exitGame": "Exit Game"
+    },
+    "tips": [
+        "Some tips..."
+    ],
+    "common": {
+        "error": {
+            "unknown": "Unknown Error"
+        }
+    }
+}
